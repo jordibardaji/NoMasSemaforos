@@ -223,6 +223,10 @@ Robot social, LEDS Rojos para Expresar furia, tiene que tocar la patata en la in
 
 Máquinas de casino o lo que sea conveniente, cuanto más difícil sea engañar a la máquina, más puntos. Vendrán con sistemas electrónicos complicados, pero las soluciones sencillas son las que suelen funcionar
 
+@ Jordi Bardají
+
+Puente levadizo automático : Con sensores de IR para bajar el puente cuando se acerca uan persona para cruzarlo, sensor de US para detectar la distancia al barco que se acerca, comunicación por Bluetooth con el barco (smartphone (appinventor) para indicarle que aminore la velocidad si el puente está siendo cruzado por un humano. Debe ser seguro tanto para las personas como para los humanos que lo crucen.
+
 ## Otros ejemplos
 
 [Zapatillas de balet que detectan los movimientos de la bailarina (e-Traces)](http://cargocollective.com/lesiatrubat/E-TRACES-memories-of-dance )
